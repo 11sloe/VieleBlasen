@@ -3,5 +3,5 @@
 11. Klasse
 
 ## Themen
-* wiederholung von Klassen und Objekten
+* Wiederholung von Klassen und Objekten
 * Processing
